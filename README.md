@@ -1,2 +1,3 @@
-# 401_Reading_Notes
-A collection of my reading notes in Code Fellows CyberOps
+# Table of Contents
+
+- [RN01 - SOC 2 Compliance](class01.md)
