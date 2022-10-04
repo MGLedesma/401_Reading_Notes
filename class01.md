@@ -22,4 +22,27 @@ Resource: [The ultimate guide to SOC 2 compliance](https://www.vendr.com/blog/so
     - need a system of record of what the company is actually doing.
 
 ### Q: Why SOC 2 Compliance?
-#### A: 
+ A: Achieving SOC 2 Compliance demonstrate that an organization:
+- improves security - pushes organization to build sustainable program
+- bolsters company culture - builts a secure and compliant business culture
+- provides documentation - a well documented processes improve internal communication and consistency
+- helps with risk management - gives a framework for acknowledign risks
+
+### Q: When to consider SOC 2 Compliance?
+A: As early as possible if selling technological services to enterprises and will be storing and/or accessing sensitive customer data of any sort.
+
+## 3 P's - Policies, Procedure, Proof
+- Policies - documents "what you do" to meet operational security agreements
+- Procedure - "how you do it" describes how the business adhere to the policies
+- Proof (supporting documents) - "proof you did it" demonstrate a day-to-day implementation of key policies
+
+## Common Criteria
+- CC1 Control Management
+- CC2 Communications and Information
+- CC3 Risk Assessment
+- CC4 Monitoring Activities
+- CC5 Control Activities
+- CC6 Logical and Physical address
+- CC7 System Operations
+- CC8 Change Management
+- CC9 Risk Mitigation
