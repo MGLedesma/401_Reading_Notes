@@ -13,4 +13,14 @@ Resource: [CIS Benchmarks](https://www.ibm.com/cloud/learn/cis-benchmarks)
 - 7 core categories of CIS Benchmarks
     - Operating systems benchmarks - security configurations of core OS, best practice guidelines for access restriction, user profiles, driver installation protocols and internet browser configurations.
     - Server software benchmarks - security configurations of widely used server software, benchmarks include recommendations for configuring Kubernetes PKI certificates, API server settings, server admin controls, vNetwork policies, and storage restrictions.
-    - Cloud provider benchmarks - security configurtions for plaksdfjal
+    - Cloud provider benchmarks - security configurtions for public clouds, include guidelines for configuring identity and access management (IAM), system logging protocols, network configurations, and regulatory compliance safeguards. 
+    - Mobile device benchmarks - address mobile operating systems, focus on areas such as developer options and settings, OS privacy configurations, browser settings, and app permissions.
+    - Network device benchmarks - general and vendor-specific security configuration guidelines for network devices and applicable hardware.
+    - Desktop software benchmarks - focus on email privacy and server settings, mobile device management, default browser settings, and third-party software blocking
+    - Multi-function print device benchmarks - outline security best practices for configuring multi-function printers in office settings and cover such topics as firmware updating, TCP/IP configurations, wireless access configuration, user management, and file sharing.
+  
+### CIS Hardened Images 
+- are pre-configured, more secure than standard virtual images, and significantly limit the security vulnerabilities that can lead to a cyberattack. 
+
+### CIS Benchmarks and regulatory compliance
+- allign with security and data privacy regulatory frameworks including the NIST Cybersecurity Framework, the PCI DSS, HIPAA and ISO/EIC 2700. 
