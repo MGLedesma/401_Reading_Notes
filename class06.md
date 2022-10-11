@@ -13,7 +13,7 @@
 ## Technical solutions for achieving enterprise file transfers
 - Confidentiality in file transfers
     - Encryption - renders data unreadable, decryption to render data readable again
-        - solution grouped into two categories
+        - solution grouped into two categories:
             - encrypt data-at-rest
             - decrypt data-in-transit 
         - data-in-transit encryption achieved through SSL or SSH
@@ -23,4 +23,12 @@
             - during (while traversing the network)
             - after (upon arrival at the recipient's server)
         - another method is authentication, can help restrict access to data to authorized individuals with multi-factor authentication
-- I
+- Integrity in file transfers
+    - Hash functions and digital signatures, secure files protocols like FTPS, HTTPS, SFTP etc. 
+- Availability in file transfers
+    - set up high available (HA) cluster. 
+        - two ways: 
+            1) active-passive HA configuration = set up one or more failover server(s) that immediately takeover if the primary server goes down
+            2) active-active HA configuration = two or more active server(s) to distribute the workload and reduce the chance of a server going down due to overload
+
+
