@@ -10,3 +10,17 @@
 - Availability
     - data access available anytime
 
+## Technical solutions for achieving enterprise file transfers
+- Confidentiality in file transfers
+    - Encryption - renders data unreadable, decryption to render data readable again
+        - solution grouped into two categories
+            - encrypt data-at-rest
+            - decrypt data-in-transit 
+        - data-in-transit encryption achieved through SSL or SSH
+        - data-at-rest encryption is achieved through OpenPGP of disk-level or file-level encryption solutions.
+        - encrypting data 
+            - before (while in sender's server)
+            - during (while traversing the network)
+            - after (upon arrival at the recipient's server)
+        - another method is authentication, can help restrict access to data to authorized individuals with multi-factor authentication
+- I
