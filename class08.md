@@ -15,3 +15,12 @@ Data Loss Prevention (DLP) is a set of tools and processes used to ensure that s
     - DLP can classify intellectual property in both structured and unstructured forms with policies and controls in place to protect against unwanted exfiltration of data.
 3. Data Visibility
     - DLP can help see and track data at endpoints, networks, and the cloud, to provide with visibility into how individual users within organization interact with data.
+
+## Why Data Loss Prevention?
+- Growth of the CISO ROle - give CISOs the necessary reporting capabilities to provide regular updates to the CEO
+- Evolving Compliance Mandates - allows the flexibility to evolve with changing global regulations
+- There are More Places to Protect Data - visibility into the events and context of events that surround the data before it leaves the organization is important in preventing sensitive data form getting into the wrong hands.
+- Data Breaches are Frequent and Large - DLP can protect against all kinds of adversaries, malicious or not
+- An Organization's Stolen Data is Worth More
+- There's More Data to Steal
+- There's a Security Talent Shortage
