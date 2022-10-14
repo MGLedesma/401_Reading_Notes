@@ -7,5 +7,7 @@
 - [RN06 - Applying CIA Triad to File Transfer](class06.md)
 - [RN07 - Data Protection](class07.md)
 - [RN08 - DLP Data Loss Prevention](class08.md)
+- [RN09 - Public Key Infrastructure](class09.md)
+
 
 
