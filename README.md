@@ -9,6 +9,6 @@
 - [RN08 - DLP Data Loss Prevention](class08.md)
 - [RN09 - Public Key Infrastructure](class09.md)
 - [RN38 - Burp Suite](class38.md)
-
+- [RN39 - SQL Injection](class39.md)
 
 
